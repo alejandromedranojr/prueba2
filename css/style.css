@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&display=swap');
+
+:root{
+	--color-hover-menu:#FE8F01;
+}
+body{
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+header{
+	background-color: #3d3d3d;
+	padding: 10px 0;
+}
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
+
+#about us .box{
+	background-color: #F5F5F5 
+}
+
+#carrousel h5{
+	font-size: 60px;
+	font-weight: 200;
+}
+
+.card{
+	background-color: #494949;
+	border-radius: 0px;
+	margin-bottom: 70px;
+}
+
+.card-body h4{
+	color: white;
+	font-size: 18px;
+	text-align: center;
+}
+
+.card-body p{
+	color: rgba(124,124,124,1.00);
+}
+
+.card{
+	padding: 45px;
+}
+
+h1{
+	text-align: center;
+	padding: 40px 100px;
+	font-weight: 400;
+}
+
+.card-body i{
+	color: white;
+	text-align: center;
+	background-color: #FE8F01;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	border-radius: 35px;
+	font-size: 20px;
+}
+
+#about us i{
+	align-content: center;
+}
+
+#counter{
+	background-color: #010101;
+	padding: 80px 120px;
+}
+
+#counter i{
+	color: white;
+	text-align: center;
+}
+
+#counter h4, p{
+	text-align: center;
+	
+}
+
+#counter h4{
+	color: white;
+	font-size: 30px;
+}
+
+#counter p{
+	color: #FE8F01;
+}
+
+
